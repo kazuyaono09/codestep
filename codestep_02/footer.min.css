@@ -1,2 +1,2 @@
-@import"https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700&display=swap";.footer{width:100%;height:34px}.footer .copyright{font-size:10px;font-weight:normal;color:#383e45;text-align:center;line-height:12px;letter-spacing:0px}
+@import"https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700&display=swap";.footer{width:100%;height:34px;display:flex;align-items:center;justify-content:center}.footer .copyright{font-size:10px;font-weight:normal;color:#383e45;text-align:center;line-height:12px;letter-spacing:0px}
 /*# sourceMappingURL=footer.min.css.map */
